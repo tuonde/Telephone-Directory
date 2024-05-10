@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1715362336 source:c:\users\user\desktop\telephone directory\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"headher.h"
+	"menu.h"
+	"phoneadd.h"
+	"phonelist.h"
+	"phonesearch.h"
+
+1715362657 c:\users\user\desktop\telephone directory\headher.h
+
+1715358777 c:\users\user\desktop\telephone directory\menu.h
+
+1715362336 c:\users\user\desktop\telephone directory\phoneadd.h
+
+1715362961 c:\users\user\desktop\telephone directory\phonelist.h
+
+1715360829 c:\users\user\desktop\telephone directory\phonesearch.h
+
